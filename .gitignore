@@ -1,0 +1,6 @@
+.stack-work/
+corona.cabal
+out/
+tmp/
+data/
+*~
